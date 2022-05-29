@@ -37,4 +37,9 @@ const config = {
     }
 }
 
-// module.exports = config
+// const plugins = {
+//     new webpack.HotModuleReplacementPlugin(),
+//     new webpack.NoEmitOnErrorsPlugin()
+// }
+
+module.exports = config
