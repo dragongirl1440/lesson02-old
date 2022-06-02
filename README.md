@@ -1,4 +1,6 @@
-# MERN - Simple Setup Check - Lesson 02
+# MERN - Simple Setup Check
+
+### [Live Demo](http://simplesetup2.mernbook.com/ "MERN Simple Setup")
 
 #### What you need to run this code
 1. Node (13.12.0)
@@ -6,9 +8,10 @@
 3. MongoDB (4.2.0)
 
 
-####  Notes
-This project was the best I could do after rereading textbook chapters several times and recreating my folder twice to make sure everything was in place.  I'm sorry that this is far from my best work and I hope to make far less mistakes next time.
-
-####  How to Run
-This project only works using ```yarn build``` followed by ```yarn start```.  The hot-loader is not capable of updating the page yet.  I will attempt working on the backend as soon as I fix and optimize the hot-loader.
+####  How to run this code
+1. Clone this repository
+2. Open command line in the cloned folder, 
+   - To install dependencies, run ```  npm install  ``` or ``` yarn ```
+   - To run the application for development, run ```  npm run development  ``` or ``` yarn development ```
+4. Open [localhost:3000](http://localhost:3000/) in the browser
  
